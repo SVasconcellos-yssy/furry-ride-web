@@ -25,11 +25,6 @@ export default async function middleware(
   request: NextRequest,
   response: NextResponse
 ) {
-
-    const cookies = request.cookies;
-
-    console.log(cookies)
-
   
 }
 
