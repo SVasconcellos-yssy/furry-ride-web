@@ -14,7 +14,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body style={{background: "#EFF9F5"}} className={inter.className}>
         <ReactQueryProvider>
           <SnackbarProvider>{children}</SnackbarProvider>
         </ReactQueryProvider>
