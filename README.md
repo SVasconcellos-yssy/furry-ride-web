@@ -21,7 +21,7 @@ git clone https://github.com/SVasconcellos-yssy/furry-ride-web.git
 ### 2. Acesse o diretorio do projeto
 
 ```bash
-cd furry-ride-frontend
+cd furry-ride-web
 ```
 
 ### 3. Instale as dependências
