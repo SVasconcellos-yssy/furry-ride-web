@@ -1,36 +1,48 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+# Furry Ride - Frontend
+
+Bem-vindo ao repositório do frontend da aplicação "Furry Ride"! Esta é uma plataforma inovadora de corridas dedicada a animais. Neste repositório, você encontrará o código-fonte e informações essenciais para configurar e executar o frontend.
+
+## Tecnologias Utilizadas
+
+- React: Biblioteca JavaScript para a construção de interfaces de usuário.
+- Next.js: Framework React para otimização do lado do servidor e desempenho aprimorado.
+- Axios: Cliente HTTP para facilitar chamadas de API.
+
+## Configuração do ambiente
+
+### 1. Clone este repositório
+
+```bash
+git clone https://github.com/seu-usuario/furry-ride-frontend.git
+```
+### 2. Acesse o diretorio do projeto
+
+```bash
+cd furry-ride-frontend
+```
+
+### 3. Instale as dependências
+
+```bash
+npm install
+```
+
+## Executando o Frontend:
+
+### 1. Inicie o servidor de desenvolvimento.
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Abra http://localhost:3000 no seu navegador para visualizar a aplicação.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Funcionalidades Implementadas: 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Tela de Login: Página de autenticação para acessar a plataforma.
+- Integração com Backend: Comunicação eficiente com o backend para autenticação de usuários.
+- Estrutura Responsiva: Interface adaptável para diferentes dispositivos.
+- 
