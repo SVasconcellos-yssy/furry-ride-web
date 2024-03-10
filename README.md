@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 
 # Furry Ride - Frontend
 
@@ -45,4 +43,4 @@ npm run dev
 - Tela de Login: Página de autenticação para acessar a plataforma.
 - Integração com Backend: Comunicação eficiente com o backend para autenticação de usuários.
 - Estrutura Responsiva: Interface adaptável para diferentes dispositivos.
-- 
+
