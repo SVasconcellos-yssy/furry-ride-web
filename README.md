@@ -16,7 +16,7 @@ Bem-vindo ao repositório do frontend da aplicação "Furry Ride"! Esta é uma p
 ### 1. Clone este repositório
 
 ```bash
-git clone https://github.com/seu-usuario/furry-ride-frontend.git
+git clone https://github.com/SVasconcellos-yssy/furry-ride-web.git
 ```
 ### 2. Acesse o diretorio do projeto
 
