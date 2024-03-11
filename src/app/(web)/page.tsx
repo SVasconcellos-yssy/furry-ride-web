@@ -45,7 +45,7 @@ const onSubmit: SubmitHandler<IFormInput> = async () => mutate.mutateAsync();
       container
       justifyContent="center"
       alignItems="center"
-      style={{ height: "100vh", display: "flex" }}
+      style={{ height: "100vh", display: "flex", background: "#EFF9F5" }}
     >
        <form onSubmit={handleSubmit(onSubmit)}>
       <Paper elevation={3} sx={{backgroundImage: 'url("/patinhas.png")', backgroundSize: 'cover', width: "30rem",}}>
@@ -115,9 +115,9 @@ const onSubmit: SubmitHandler<IFormInput> = async () => mutate.mutateAsync();
             fullWidth
             type="submit"
             sx={{
-              backgroundColor: "#FCD63C",
+              backgroundColor: "#FADD3F",
               "&:hover": {
-                backgroundColor: "#a89d23",
+                backgroundColor: "#E1C739",
               },
             }}
           >
